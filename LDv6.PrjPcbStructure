@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=LDv6_TOP.SchDoc
+Record=SheetSymbol|SourceDocument=LDv6_TOP.SchDoc|Designator=Controller|SchDesignator=Controller|FileName=Controller.SchDoc|SymbolType=Normal|RawFileName=Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LDv6_TOP.SchDoc|Designator=PWR|SchDesignator=PWR|FileName=PWR.SchDoc|SymbolType=Normal|RawFileName=PWR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LDv6_TOP.SchDoc|Designator=LD1|SchDesignator=REPEAT(LD,1,2)|FileName=Laser Driver.SchDoc|SymbolType=Normal|RawFileName=Laser Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LDv6_TOP.SchDoc|Designator=LD2|SchDesignator=REPEAT(LD,1,2)|FileName=Laser Driver.SchDoc|SymbolType=Normal|RawFileName=Laser Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
